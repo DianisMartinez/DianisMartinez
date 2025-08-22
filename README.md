@@ -1,17 +1,17 @@
-<p align="start">
-<img alt="GIF" src="https://i.gifer.com/Vbrd.gif"<p/>
-<h1 align="start"> Hi! My Name is Diana <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/monkey_1f412.gif" width="28px"</h1>
+<h2>About Me 👩‍💻</h2>
 
-I'm Diana Gomez, I'm from Colombia-Chile  and I love everything that has to do with technology 💻
-(Also Monkeys)
+<p>
+  Hi! I’m Diana Gomez, a tech enthusiast from <strong>Colombia & Chile 🇨🇴🇨🇱</strong>.  
+  I love exploring everything related to technology and programming. Also, I have a soft spot for monkeys 🐒.
+</p>
 
-- :seedling: I’m currently learning about this world of programation .
-- :computer: Most used line of code `git commit -m "Initial Commit"`.
-- 🤔 I’m looking for a good classmate
-- :speech_balloon: Ask me about anything I'll help you 
-- 😹 I'm funny!!
-
-<br>
+<ul>
+  <li>🌱 I’m currently learning programming and improving my coding skills.</li>
+  <li>💻 Favorite command: <code>git commit -m "Initial Commit"</code></li>
+  <li>🎓 Looking for classmates and friends to learn and grow together.</li>
+  <li>💬 Feel free to ask me anything—I love helping others!</li>
+  <li>😹 I have a good sense of humor and enjoy making people smile.</li>
+</ul>
 
 <h3 align="left">Connect with me 😮‍💨:</h3> 
 <p align="left">
