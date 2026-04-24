@@ -1,16 +1,15 @@
 <h2>About Me 👩‍💻</h2>
 
 <p>
-  Hi! I’m Diana Gomez, a tech enthusiast from <strong>Colombia & Chile 🇨🇴🇨🇱</strong>.  
-  I love exploring everything related to technology and programming. Also, I have a soft spot for monkeys 🐒.
+Hi! I’m Diana Gomez, a frontend developer passionate about building modern and interactive web experiences.  
+Currently focused on improving my skills in <strong>JavaScript and React</strong>.
 </p>
 
 <ul>
-  <li>🌱 I’m currently learning programming and improving my coding skills.</li>
-  <li>💻 Favorite command: <code>git commit -m "Initial Commit"</code></li>
-  <li>🎓 Looking for classmates and friends to learn and grow together.</li>
-  <li>💬 Feel free to ask me anything—I love helping others!</li>
-  <li>😹 I have a good sense of humor and enjoy making people smile.</li>
+  <li>🚀 Building real projects to improve my skills</li>
+  <li>💻 Strong base in HTML, CSS & JavaScript</li>
+  <li>📚 Learning React and modern frontend tools</li>
+  <li>🌎 Open to remote opportunities and collaborations</li>
 </ul>
 
 <h3 align="left">Connect with me 😮‍💨:</h3> 
